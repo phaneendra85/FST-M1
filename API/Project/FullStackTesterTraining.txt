@@ -1,0 +1,99 @@
+Trainngs support slack channel - https://app.slack.com/client/TPX14VBNX/D03A3B60K26https://slides.com/chandrak/ibm-fst-java-v2/fullscreen?token=tUE15EC5#/2/1
+pwd for all slides links(common pwd) - e1car0
+
+Java Pragrams - C:\Users\07731B744\IdeaProjects\FST_Java\src
+
+Daily Joining Link :-
+http://training-support.my.webex.com/meet/room-01
+
+
+https://www.guru99.com/java-oops-encapsulation.html
+
+Python - 
+https://slides.com/chandrak/ibm-fst-python/fullscreen?token=6NXX-5P5
+install - https://www.python.org/downloads/windows/ -> Download Windows installer (64-bit)
+https://code.visualstudio.com/docs/?dv=win64user -> code writing area
+
+https://slides.com/chandrak/ibm-fst-java-v2/fullscreen?token=tUE15EC5#/48
+
+Python programs - C:\Users\07731B744\PythonPrograms
+
+Oracle SQL - mphaneendra85@gmail.com / Kr!shna20
+https://livesql.oracle.com/apex/f?p=590:1:6387296374548::NO:RP::
+
+Oracle/SQL Slides:
+https://slides.com/chandrak/ibm-sdet-sql-v2/fullscreen?token=2Vto3jao#/7/2
+
+github -  training-support / FST-M1 
+https://github.com/
+phaneendra85 / Kr!shna20
+where we need to upload - https://github.com/training-support/FST-M1
+https://github.com/phaneendra85/FST-M1
+github Token -> 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
+The key fingerprint is:
+SHA256:YG0/PKYX1wwHv0lWU7gdlf20kYUZg7dkL1iuB9YAgdg gmx\07731b744@WIN-JJ15TRSK27I
+
+SQL programs - C:\Viewpointe\FullStack\SQL
+
+
+Selenium - 
+http://slides.com/chandrak/ibm-fst-selenium-v4/fullscreen?token=lqGh5D2U
+
+Trainings support:
+https://www.training-support.net/
+
+TestNG - 
+https://slides.com/chandrak/testng-ibm-sdet/fullscreen?token=ELPa6jZO#/4/1
+
+Cucumber - 
+https://slides.com/chandrak/cucumbergherkin-ibm-sdet/fullscreen?token=IhiPi7q5#/22/1
+
+Project - https://lms.training-support.net/alchemy/topic/ibm-fst-batch-31-session-12/
+
+WebServices / SoapUI - 
+https://slides.com/chandrak/fst-api-testing-v2/fullscreen?token=gW6ZsLiL
+
+ReadyAPI - 
+download from  - https://smartbear.com/product/ready-api/free-trial/
+
+{
+    "id": 71225,
+    "name": "${#TestSuite#petname}",
+    "status": "alive"
+}
+Resp:-
+{
+   "id" : 71225,
+   "name" : "petsuit",
+   "photoUrls" : [ ],
+   "tags" : [ ],
+   "status" : "alive"
+}
+Req-
+{
+    "id": 71225,
+    "name": "${#TestCase#petname}",
+    "status": "alive"
+}
+Resp -
+{
+   "id" : 71225,
+   "name" : "peta",
+   "photoUrls" : [ ],
+   "tags" : [ ],
+   "status" : "alive"
+}
+
+Mysql downloader - 
+https://dev.mysql.com/downloads/connector/j/
+
+MySQL/com.mysql.jdbc.Driver
+Host: remotemysql.com
+ Port: 3306
+ username: CGpfjlbstY
+ password: Sav3dVDTJ4
+ Database: CGpfjlbstY
+
+GET with https://api.github.com/user/emails
+POST with https://api.github.com/user/keys
+DELETE with https://api.github.com/user/keys/{keyId}
